@@ -3,7 +3,8 @@ vlib work
 vlog -coveropt 3 +cover +acc {Codes\shared_pkg\shared_pkg.sv}
 ###
 vlog -coveropt 3 +cover +acc {Codes\Interface\interface.sv}
-vlog -coveropt 3 +cover +acc {Codes\Interface\ALSU_ref.sv}
+
+vlog -coveropt 3 +cover +acc {Codes\refrence\ALSU_ref.sv}
 ###
 vlog -coveropt 3 +cover +acc {Codes\DUT\ALSU.sv}
 vlog -coveropt 3 +cover +acc {Codes\DUT\assertion.sv}
