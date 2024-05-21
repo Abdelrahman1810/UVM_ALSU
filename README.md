@@ -149,7 +149,7 @@ If you find any issues or have suggestions for improvement, feel free to submit 
 
 ## Contact info 💜
 <a href="https://linktr.ee/A_Hassanen" target="_blank">
-  <img align="left" alt="Linktree" width="110px" src="https://app.ashbyhq.com/api/images/org-theme-wordmark/b3f78683-a307-4014-b236-373f18850e2c/d54b020a-ff53-455a-9d52-c90c0f4f2081.png" />
+  <img align="left" alt="Linktree" width="180px" src="https://app.ashbyhq.com/api/images/org-theme-wordmark/b3f78683-a307-4014-b236-373f18850e2c/d54b020a-ff53-455a-9d52-c90c0f4f2081.png" />
 </a> 
 <br>
 <br>
